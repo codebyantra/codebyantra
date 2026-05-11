@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React-based web projects like a portfolio website and a voice-to-text application<br><br>👯 I’m looking to collaborate on frontend projects (HTML, CSS, JavaScript, React) and creative web applications<br><br>🤝 I’m looking for help with backend development (Node.js, Express, MySQL) and deployment<br><br>🌱 I’m currently learning React, backend development, and building real-world projects<br><br>💬 Ask me about frontend development, responsive design, and web projects like restaurant/food ordering systems<br><br>⚡ Fun fact: I love designing aesthetic and user-friendly websites with creative UI ideas
+🔭 I’m currently working on React-based web projects like a portfolio website and a voice-to-text application<br><br>👯 I’m looking to collaborate on frontend projects (HTML, CSS, JavaScript, React) and creative web applications<br><br>🤝 I’m looking for help with backend development (php, MySQL) and deployment<br><br>🌱 I’m currently learning React, backend development, and building real-world projects<br><br>💬 Ask me about frontend development, responsive design, and web projects. <br><br>⚡ Fun fact: I love designing aesthetic and user-friendly websites with creative UI ideas
 
 
 ## 🌐 Socials:
