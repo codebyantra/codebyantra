@@ -1,17 +1,68 @@
-# 💫 About Me:
-🔭 I’m currently working on React-based web projects like a portfolio website and a voice-to-text application<br><br>👯 I’m looking to collaborate on frontend projects (HTML, CSS, JavaScript, React) and creative web applications<br><br>🤝 I’m looking for help with backend development (php, MySQL) and deployment<br><br>🌱 I’m currently learning React, backend development, and building real-world projects<br><br>💬 Ask me about frontend development, responsive design, and web projects. <br><br>⚡ Fun fact: I love designing aesthetic and user-friendly websites with creative UI ideas
+# Hi 👋, I'm Antra Vishwakarma
 
+## 💖 Full Stack Developer | React.js Developer | Software Engineer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/antra_817) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antra-vishwakarma-52695a326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antravishwakarma827@gmail.com) 
+### 👩‍💻 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=codebyantra&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=codebyantra&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codebyantra&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌸 Passionate Full Stack Developer from Delhi, India
+- 💻 Love building beautiful, responsive & modern web experiences
+- 🌱 Currently learning Node.js, Express.js & MongoDB
+- ✨ Focused on writing clean, maintainable and scalable code
+- 🤝 Open to collaborations and exciting opportunities
+- 🚀 Dreaming big and coding every day
+- 💖 "Code. Create. Learn. Repeat. Turning ideas into beautiful digital experiences."
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codebyantra&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
+---
 
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- PHP
+- MySQL
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+- 🌐 Portfolio Website
+- 🍽️ Restaurant Website
+- 🎙️ Real-Time Voice To Text Converter
+
+---
+
+## 📚 Currently Learning
+
+- Node.js
+- Express.js
+- MongoDB
+- Backend Development
+- REST APIs
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **atrix.dev26@gmail.com**
+- 💻 GitHub: **@codebyantra**
+- 💼 LinkedIn: Coming Soon
+- 🌐 Portfolio: Coming Soon
+
+---
+
+## 🎯 Developer Quote
+
+> **"Code. Create. Learn. Repeat. Turning ideas into beautiful digital experiences."**
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+💖 *Made with love by Antra Vishwakarma.*
