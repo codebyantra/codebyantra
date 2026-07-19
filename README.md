@@ -9,7 +9,7 @@ Fueled by Coffee, Inspired by Moonlight ☕🌙
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=C8A27A&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Diploma+in+Computer+Engineering;Currently+Pursuing+BCA;React+%7C+Node.js+%7C+PHP;Building+Beautiful+Web+Experiences" />
 </p>
----
+<br>
 
 <h2 align="center">☕ About Me</h2>
 
@@ -22,14 +22,14 @@ Fueled by Coffee, Inspired by Moonlight ☕🌙
 🌙 I enjoy creating clean, aesthetic and user-friendly interfaces.
 
 </p>
----
+<br>
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,mongodb,git,github,vscode&perline=6" />
 </p>
----
+<br>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -61,16 +61,16 @@ Responsive restaurant website with elegant UI, menu section and modern animation
 
 </tr>
 </table>
----
+<br>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codebyantra&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codebyantra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyantra&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyantra&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=codebyantra&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codebyantra&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
