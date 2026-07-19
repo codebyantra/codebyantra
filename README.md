@@ -7,8 +7,9 @@ Fueled by Coffee, Inspired by Moonlight ☕🌙
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=C8A27A&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Diploma+in+Computer+Engineering;Currently+Pursuing+BCA;React+%7C+Node.js+%7C+PHP;Building+Beautiful+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=C8A27A&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Diploma+in+Computer+Engineering;Currently+Pursuing+BCA;React+%7C+Node.js+%7C+PHP;Building+Beautiful+Web+Experiences"/>
 </p>
+
 <br>
 
 <h2 align="center">☕ About Me</h2>
@@ -17,60 +18,94 @@ Fueled by Coffee, Inspired by Moonlight ☕🌙
 
 🎓 Diploma in Computer Engineering <br>
 📚 Currently pursuing Bachelor of Computer Applications (BCA) <br>
-💻 Full Stack Developer passionate about building modern web applications <br>
-🌱 Currently learning advanced backend development and scalable applications <br>
-🌙 I enjoy creating clean, aesthetic and user-friendly interfaces.
+💻 Passionate about Full Stack Web Development <br>
+🌱 Currently learning Backend Development & Scalable Applications <br>
+🌙 Love creating clean, aesthetic & responsive websites.
 
 </p>
+
 <br>
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,mongodb,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mysql,mongodb,git,github,vscode" />
 </p>
+
 <br>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center">
+<table>
 <tr>
-<td width="33%" align="center">
+
+<td align="center" width="33%">
 
 ### 🌐 Portfolio
 
-Modern developer portfolio built using React.js with a clean UI and responsive design.
+Modern developer portfolio with responsive UI built using React.
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🎙️ Voice to Text
+### 🎙️ Voice To Text
 
-Real-time speech recognition web application using JavaScript Web Speech API.
+Real-time Speech Recognition Web App using JavaScript Web Speech API.
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🍽️ Restaurant Website
 
-Responsive restaurant website with elegant UI, menu section and modern animations.
+Responsive Restaurant Website with elegant modern interface.
 
 </td>
 
 </tr>
 </table>
+
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=codebyantra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"](https://github-readme-stats.vercel.app/api?username=codebyantra...) />
+<img src="https://streak-stats.demolab.com?user=codebyantra&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyantra&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<br>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codebyantra&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/codebyantra">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- LinkedIn baad me -->
+
+<!-- Instagram baad me -->
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=codebyantra&label=Profile+Views&color=8B6B5C&style=flat"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codebyantra&theme=tokyonight&hide_border=true&border_radius=12" />
+✨ Thanks for visiting my profile ✨
 </p>
