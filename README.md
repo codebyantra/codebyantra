@@ -39,34 +39,62 @@ Fueled by Coffee, Inspired by Moonlight ☕🌙
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🌐 Portfolio
 
-Modern developer portfolio with responsive UI built using React.
+Personal developer portfolio built with React.js and modern UI.
+
+**Tech:** React • CSS • JavaScript
+
+<a href="YOUR_PORTFOLIO_REPO_LINK">
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_PORTFOLIO_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+</a>
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🎙️ Voice To Text
 
-Real-time Speech Recognition Web App using JavaScript Web Speech API.
+Real-time speech recognition app using Web Speech API.
+
+**Tech:** HTML • CSS • JavaScript
+
+<a href="YOUR_VOICE_REPO_LINK">
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_VOICE_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+</a>
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🍽️ Restaurant Website
 
-Responsive Restaurant Website with elegant modern interface.
+Responsive restaurant website with modern design.
+
+**Tech:** HTML • CSS • JavaScript
+
+<a href="YOUR_RESTAURANT_REPO_LINK">
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_RESTAURANT_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+</a>
 
 </td>
 
 </tr>
 </table>
-
-<br>
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
