@@ -66,7 +66,7 @@ Responsive restaurant website with elegant UI, menu section and modern animation
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codebyantra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=codebyantra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"](https://github-readme-stats.vercel.app/api?username=codebyantra...) />
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyantra&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
