@@ -1,6 +1,6 @@
-<!-- <img width="1536" height="1024" alt="ChatGPT Image Jul 21, 2026 at 11_46_20 PM" src="https://github.com/user-attachments/assets/919ecc10-fb89-408f-b497-913c260caa0a" /> -->
+
 <p align="center">
-<img width="1983" height="793" alt="![Uploading ChatGPT Image Jul 21, 2026 at 11_46_20 PM.png…]()" src="https://github.com/user-attachments/assets/de2f06c3-31f7-483d-8817-df3fba8cf12f" />
+</p><img width="2172" height="724" alt="ChatGPT Image Jul 22, 2026 at 12_14_58 AM" src="https://github.com/user-attachments/assets/de980c5d-d714-42d2-b18d-c6685b29ec80" />
 </p>
 <h1 align="center">Hi 👋 I'm Antra</h1>
 
@@ -78,8 +78,8 @@ Full Stack Developer • React Developer • UI/UX Designer
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
-</p>
-
 <p align="center">
 Code • Learn • Build • Repeat 🚀
 </p>
+
+
