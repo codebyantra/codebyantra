@@ -1,85 +1,176 @@
-
 <p align="center">
-</p><img width="2172" height="724" alt="ChatGPT Image Jul 22, 2026 at 12_14_58 AM" src="https://github.com/user-attachments/assets/de980c5d-d714-42d2-b18d-c6685b29ec80" />
+<img width="100%" src="https://github.com/user-attachments/assets/de980c5d-d714-42d2-b18d-c6685b29ec80" />
 </p>
-<h1 align="center">Hi 👋 I'm Antra</h1>
+
+<h1 align="center">Hi 👋, I'm Antra</h1>
 
 <h3 align="center">
-Full Stack Developer • React Developer • UI/UX Designer
+💖 Full Stack Developer • React Developer • UI/UX Designer 💖
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Next.js+Developer;UI%2FUX+Designer;Always+Learning+🌸" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Laravel+Developer;UI%2FUX+Designer;Always+Learning+New+Things+🌸" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Code&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
 
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,mysql,git,github,vscode,postman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=90&section=header"/>
 </p>
 
-## 👨‍💻 About Me
+# 🌸 About Me
 
-- 🎓 BCA Student (Graduating in August 2026)
-- 💻 Full Stack Developer
-- 🚀 Building scalable web applications using FastAPI, React & Next.js
-- 🌱 Continuously learning System Design and Backend Architecture
-- 🎯 Passionate about solving real-world problems through code
-- 📍 New Delhi, India
-- 📫 Reach me: **lalitsharma48240@gmail.com**
+💻 Software Engineering Enthusiast
 
-## 🌐 Connect With Me
+🎓 Bachelor of Computer Applications (IGNOU)
+
+🎓 Advanced Diploma in Computer Engineering – Software Engineering
+
+💼 Freelance Web Developer
+
+🚀 Passionate about building responsive and user-friendly web applications
+
+🌱 Experienced with React, PHP, Laravel, MySQL & MongoDB
+
+✨ Always learning new technologies and improving my development skills
+
+📍 India
+
+📧 **atrix.dev26@gmail.com**
+
+---
+
+# 🌟 Strengths
+
+✨ Quick Learner
+
+🤝 Team Player
+
+🧩 Problem Solver
+
+💪 Hardworking & Dedicated
+
+---
+
+# 🌸 Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lalit-kumar-sharma-a312l/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:lalitsharma48240@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,laravel,mysql,mongodb,firebase,git,github,vscode,postman"/>
 
-  <a href="https://github.com/letscode-with-me">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </p>
 
-## 🚀 Featured Projects
+---
 
-| Project | Tech Stack | Status |
-|---------|------------|--------|
-| 🎓 Student Management API | FastAPI, SQLAlchemy, JWT | 🚧 In Progress |
-| 🌍 GoFly Travel Website | Next.js, Tailwind CSS | 🚧 In Progress |
-| 💼 Personal Portfolio | React, Tailwind CSS | 🚧 In Progress |
+# 🚀 Featured Projects
 
-## 📊 GitHub Stats
+| 🌸 Project | 💻 Tech Stack | 📄 Description |
+|------------|--------------|----------------|
+| 🎙 Voice to Text Converter | React.js | Real-time speech recognition application with language selection and live text conversion |
+| 🌺 Floral Website | React.js | Responsive floral e-commerce website with a modern UI and smooth user experience |
+| 🍔 Food Ordering Website | React.js • PHP • MySQL | Complete food ordering platform with cart, database integration and responsive design |
+
+---
+
+# 💼 Experience
+
+### 💻 Freelance Web Developer
+
+- 🌸 Developed responsive websites for clients
+- 💖 Converted client requirements into functional web solutions
+- 🚀 Delivered projects within deadlines
+- ✨ Worked independently with strong problem-solving skills
+
+---
+
+# 🎓 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**
+
+Indira Gandhi National Open University (IGNOU)
+
+<br>
+
+🎓 **Advanced Diploma in Computer Engineering**
+
+Software Engineering
+
+<br>
+
+📜 **Android Development Certification (NSDC)**
+
+Completed in 2025
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=letscode-with-me&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=letscode-with-me&layout=compact&theme=tokyonight&hide_border=true" />
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:atrix.dev26@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
-## 🔥 GitHub Streak
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=letscode-with-me&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
-## 🐍 Contribution Snake
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/letscode-with-me/letscode-with-me/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
-<p align="center">
-Code • Learn • Build • Repeat 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Code+with+Passion+🌸;Design+with+Creativity+💖;Keep+Learning+Every+Day+✨"/>
+
 </p>
 
+<p align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+🌸 Thanks for Visiting My Profile 🌸
+
+</h3>
+
+<p align="center">
+
+💖 Code • Create • Inspire • Repeat 💖
+
+</p>
