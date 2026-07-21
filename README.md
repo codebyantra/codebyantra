@@ -1,21 +1,19 @@
 <p align="center">
-<img width="1983" height="793" alt="ChatGPT Image Jul 18, 2026 at 04_17_57 PM" src="https://github.com/user-attachments/assets/de2f06c3-31f7-483d-8817-df3fba8cf12f" />
+<img width="1983" height="793" alt="![Uploading ChatGPT Image Jul 21, 2026 at 11_46_20 PM.png…]()" src="https://github.com/user-attachments/assets/de2f06c3-31f7-483d-8817-df3fba8cf12f" />
 </p>
-<h1 align="center">Hi 👋, I'm Lalit Kumar Sharma</h1>
+<h1 align="center">Hi 👋 I'm Antra</h1>
 
 <h3 align="center">
-Full Stack Developer | Python | FastAPI | React | Next.js
+Full Stack Developer • React Developer • UI/UX Designer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;FastAPI+Developer;React+Developer;Next.js+Developer;Always+Learning..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Next.js+Developer;UI%2FUX+Designer;Always+Learning+🌸" />
 </p>
-
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=letscode-with-me&label=Profile%20Views&color=39D353&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Code&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
-
 
 ## 🛠️ Tech Stack
 <p align="center">
