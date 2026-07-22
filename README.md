@@ -21,7 +21,7 @@ Full Stack Developer | React.js
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,express,php,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,php,mongodb,mysql,git,github,vscode" />
 </p>
 
 ## 👨‍💻 About Me
@@ -74,7 +74,7 @@ Full Stack Developer | React.js
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codebyantra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lets-code-with-me/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
