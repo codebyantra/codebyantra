@@ -55,8 +55,8 @@ Full Stack Developer | React.js
 | Project | Tech Stack | Status |
 |---------|------------|--------|
 | 🎙️ Real-Time Voice to Text Converter | HTML, CSS, JavaScript, Web Speech API | ✅ Completed |
-| 🍽️ Restaurant Website | HTML, CSS, JavaScript | ✅ Completed |
-| 🌐 Personal Portfolio | React.js, CSS, JavaScript | 🚧 In Progress |
+| 🍽️ Restaurant Website | HTML, CSS, JavaScript, php | ✅ Completed |
+| 🌐 Personal Portfolio | React.js, CSS | ✅ Completed |
 
 ## 📊 GitHub Stats
 
