@@ -74,7 +74,7 @@ Full Stack Developer | React.js
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/letscode-with-me/codebyantra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/codebyantra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
