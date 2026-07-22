@@ -3,6 +3,10 @@
 <!-- <img width="1983" height="793" alt="ChatGPT Image Jul 18, 2026 at 04_17_57 PM" src="https://github.com/user-attachments/assets/de2f06c3-31f7-483d-8817-df3fba8cf12f" /> -->
   <img width="2172" height="724" alt="banner.png" src="https://github.com/user-attachments/assets/f9217a71-8e4d-46ed-9ea6-c12518077b4f" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." alt="Typing SVG" />
+</p>
+
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Status |
@@ -10,10 +14,6 @@
 | 🎙️ Real-Time Voice to Text Converter | HTML, CSS, JavaScript, Web Speech API | ✅ Completed |
 | 🍽️ Restaurant Website | HTML, CSS, JavaScript, php | ✅ Completed |
 | 🌐 Personal Portfolio | React.js, CSS | ✅ Completed |
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." alt="Typing SVG" />
-</p>
 
 
 <p align="center">
