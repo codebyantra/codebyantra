@@ -21,7 +21,7 @@ Full Stack Developer | React.js
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,express,php,mongodb,mysql,git,github,vscode" />
 </p>
 
 ## 👨‍💻 About Me
@@ -37,7 +37,7 @@ Full Stack Developer | React.js
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lalit-kumar-sharma-a312l/">
+  <a href="https://www.linkedin.com/in/antra-vishwakarma-52695a326/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,27 +54,27 @@ Full Stack Developer | React.js
 
 | Project | Tech Stack | Status |
 |---------|------------|--------|
-| 🎓 Student Management API | FastAPI, SQLAlchemy, JWT | 🚧 In Progress |
-| 🌍 GoFly Travel Website | Next.js, Tailwind CSS | 🚧 In Progress |
-| 💼 Personal Portfolio | React, Tailwind CSS | 🚧 In Progress |
+| 🎙️ Real-Time Voice to Text Converter | HTML, CSS, JavaScript, Web Speech API | ✅ Completed |
+| 🍽️ Restaurant Website | HTML, CSS, JavaScript | ✅ Completed |
+| 🌐 Personal Portfolio | React.js, CSS, JavaScript | 🚧 In Progress |
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=letscode-with-me&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=letscode-with-me&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codebyantra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codebyantra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=letscode-with-me&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codebyantra&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/letscode-with-me/letscode-with-me/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/letscode-with-me/codebyantra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
