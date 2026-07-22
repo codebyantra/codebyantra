@@ -26,10 +26,10 @@ Full Stack Developer | React.js
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student (Graduating in August 2026)
-- 💻 Full Stack Developer
-- 🚀 Building scalable web applications using React.js & Node.js
-- 🌱 Continuously learning System Design and Backend Architecture
+- 🎓 Pursuing Bachelor of Computer Applications (BCA)
+- 💻 Full Stack Web Developer
+- 🚀 Building responsive and user-friendly web applications
+- 🌱 Currently exploring advanced backend development
 - 🎯 Passionate about solving real-world problems through code
 - 📍 New Delhi, India
 - 📫 Reach me: **atrix.dev26@gmail.com**
