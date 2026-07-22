@@ -21,7 +21,7 @@ Full Stack Developer | React.js
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,php,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mongodb,mysql,git,github,vscode" />
 </p>
 
 ## 👨‍💻 About Me
