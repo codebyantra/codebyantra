@@ -1,7 +1,7 @@
 
 <p align="center">
 <!-- <img width="1983" height="793" alt="ChatGPT Image Jul 18, 2026 at 04_17_57 PM" src="https://github.com/user-attachments/assets/de2f06c3-31f7-483d-8817-df3fba8cf12f" /> -->
-  <img width="2172" height="724" alt="ChatGPT Image Jul 22, 2026 at 12_14_58 AM" src="https://github.com/user-attachments/assets/f9217a71-8e4d-46ed-9ea6-c12518077b4f" />
+  <img width="2172" height="724" alt="banner.png" src="https://github.com/user-attachments/assets/f9217a71-8e4d-46ed-9ea6-c12518077b4f" />
 </p>
 <h1 align="center">Hi 👋, I'm Antra</h1>
 
