@@ -45,7 +45,7 @@ Full Stack Developer | React.js
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/letscode-with-me">
+  <a href="https://github.com/codebyantra">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
