@@ -6,16 +6,16 @@
 <h1 align="center">Hi 👋, I'm Antra</h1>
 
 <h3 align="center">
-Full Stack Developer | Python | FastAPI | React | Next.js
+Full Stack Developer | React.js
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;FastAPI+Developer;React+Developer;Next.js+Developer;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=letscode-with-me&label=Profile%20Views&color=39D353&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=codebyantra&label=Profile%20Views&color=39D353&style=for-the-badge" />
 </p>
 
 
@@ -28,11 +28,11 @@ Full Stack Developer | Python | FastAPI | React | Next.js
 
 - 🎓 BCA Student (Graduating in August 2026)
 - 💻 Full Stack Developer
-- 🚀 Building scalable web applications using FastAPI, React & Next.js
+- 🚀 Building scalable web applications using React.js & Node.js
 - 🌱 Continuously learning System Design and Backend Architecture
 - 🎯 Passionate about solving real-world problems through code
 - 📍 New Delhi, India
-- 📫 Reach me: **lalitsharma48240@gmail.com**
+- 📫 Reach me: **atrix.dev26@gmail.com**
 
 ## 🌐 Connect With Me
 
@@ -41,7 +41,7 @@ Full Stack Developer | Python | FastAPI | React | Next.js
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:lalitsharma48240@gmail.com">
+  <a href="mailto:atrix.dev26@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
