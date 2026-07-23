@@ -1,7 +1,6 @@
 
 <p align="center">
-<!-- <img width="1983" height="793" alt="ChatGPT Image Jul 18, 2026 at 04_17_57 PM" src="https://github.com/user-attachments/assets/de2f06c3-31f7-483d-8817-df3fba8cf12f" /> -->
-  <img width="2172" height="724" alt="banner.png" src="https://github.com/user-attachments/assets/f9217a71-8e4d-46ed-9ea6-c12518077b4f" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-22 at 18 37 18" src="https://github.com/user-attachments/assets/2a1182ba-62eb-4d3e-817a-d58f51ef8afc" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=C79A63&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." />
