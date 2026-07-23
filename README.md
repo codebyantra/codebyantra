@@ -4,7 +4,7 @@
   <img width="2172" height="724" alt="banner.png" src="https://github.com/user-attachments/assets/f9217a71-8e4d-46ed-9ea6-c12518077b4f" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=C79A63&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." />
 </p>
 <table>
 <tr>
