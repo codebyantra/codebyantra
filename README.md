@@ -6,21 +6,50 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." alt="Typing SVG" />
 </p>
+<table>
+<tr>
 
-## 🚀 Featured Projects
+<td width="35%" align="center" valign="top">
 
-| Project | Tech Stack | Status |
-|---------|------------|--------|
-| 🎙️ Real-Time Voice to Text Converter | HTML, CSS, JavaScript, Web Speech API | ✅ Completed |
-| 🍽️ Restaurant Website | HTML, CSS, JavaScript, php | ✅ Completed |
-| 🌐 Personal Portfolio | React.js, CSS | ✅ Completed |
+<img src="./assets/developer-card (1).svg" width="300" alt="Developer Card">
 
+</td>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=codebyantra&label=Profile%20Views&color=39D353&style=for-the-badge" />
-</p>
+<td width="65%" valign="top">
 
+<h2>🚀 Featured Projects</h2>
 
+<table>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>🎙️ Real-Time Voice to Text Converter</td>
+<td>HTML • CSS • JavaScript • Web Speech API</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>🍽️ Restaurant Website</td>
+<td>HTML • CSS • JavaScript • PHP</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>🌐 Personal Portfolio</td>
+<td>React.js • CSS</td>
+<td>✅ Completed</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,mongodb,mysql,git,github,vscode" />
