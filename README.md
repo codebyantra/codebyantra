@@ -8,13 +8,13 @@
 <table>
 <tr>
 
-<td width="35%" align="center" valign="top">
+<td width="40%" align="center" valign="top">
 
-<img src="./assets/developer-card (1).svg" width="450" alt="Developer Card">
+<img src="./assets/developer-card (1).svg" width="500" alt="Developer Card">
 
 </td>
 
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 <h2>🚀 Featured Projects</h2>
 
