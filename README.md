@@ -39,7 +39,7 @@
 
 <tr>
 <td>🌐 Personal Portfolio</td>
-<td>React.js • CSS • Animations</td>
+<td>React.js • CSS • Animations • Typescript • Javascript</td>
 <td>✅ Completed</td>
 </tr>
 
