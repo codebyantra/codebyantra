@@ -43,6 +43,12 @@
 <td>✅ Completed</td>
 </tr>
 
+<tr>
+<td>☕ Coffee Shop</td>
+<td>React.js • CSS</td>
+<td>✅ Completed</td>
+</tr>
+
 </table>
 
 </td>
