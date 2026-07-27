@@ -16,11 +16,10 @@ jobs:
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
-        with:
-          github_user_name: codebyantra
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+       with:
+  github_user_name: codebyantra
+  outputs: |
+    dist/github-contribution-grid-snake.svg?color_snake=%236F4E37&color_dots=%230d1117,%231F3A5F,%233B82F6,%237AA2F7,%23D2B48C
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
