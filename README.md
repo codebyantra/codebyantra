@@ -8,9 +8,9 @@
 <table>
 <tr>
 
-<td width="40%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
-<img src="./assets/developer-card (1).svg" width="500" alt="Developer Card">
+<img src="./assets/developer-card (1).svg" width="300" alt="Developer Card">
 
 </td>
 
