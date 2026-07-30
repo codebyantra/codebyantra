@@ -6,58 +6,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=C79A63&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." />
 </p>
 <table width="100%">
-  <tr>
+<tr>
 
-    <!-- Left Side (40%) -->
-    <td width="40%" align="center" valign="top">
+<td width="40%" align="center" valign="top">
 
-      <img src="./assets/developer-card (1).svg"
-           width="350"
-           alt="Developer Card">
+<img src="./assets/developer-card (1).svg" width="260">
 
-    </td>
+</td>
 
-    <!-- Right Side (60%) -->
-    <td width="60%" valign="top">
+<td width="60%" valign="top">
 
-      <h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-      <table width="100%">
-        <tr>
-          <th>Project</th>
-          <th>Tech Stack</th>
-          <th>Status</th>
-        </tr>
+| Project | Tech Stack | Status |
+|---------|------------|--------|
+| 🎙️ Real-Time Voice to Text Converter | HTML • CSS • JavaScript • Web Speech API | ✅ Completed |
+| 🍽️ Restaurant Website | HTML • CSS • JavaScript • PHP | ✅ Completed |
+| 🌐 Personal Portfolio | React.js • CSS • Animations • TypeScript • JavaScript | ✅ Completed |
+| ☕ Coffee Shop | React.js • CSS | ✅ Completed |
 
-        <tr>
-          <td>🎙️ Real-Time Voice to Text Converter</td>
-          <td>HTML • CSS • JavaScript • Web Speech API</td>
-          <td>✅ Completed</td>
-        </tr>
+</td>
 
-        <tr>
-          <td>🍽️ Restaurant Website</td>
-          <td>HTML • CSS • JavaScript • PHP</td>
-          <td>✅ Completed</td>
-        </tr>
-
-        <tr>
-          <td>🌐 Personal Portfolio</td>
-          <td>React.js • CSS • Animations • TypeScript • JavaScript</td>
-          <td>✅ Completed</td>
-        </tr>
-
-        <tr>
-          <td>☕ Coffee Shop</td>
-          <td>React.js • CSS</td>
-          <td>✅ Completed</td>
-        </tr>
-
-      </table>
-
-    </td>
-
-  </tr>
+</tr>
 </table>
 
 
