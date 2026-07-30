@@ -5,55 +5,59 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=28&pause=1000&color=C79A63&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Always+Learning..." />
 </p>
-<table>
-<tr>
+<table width="100%">
+  <tr>
 
-<td width="20%" align="center" valign="top">
+    <!-- Left Side (40%) -->
+    <td width="40%" align="center" valign="top">
 
-<img src="./assets/developer-card (1).svg" width="300" alt="Developer Card">
+      <img src="./assets/developer-card (1).svg"
+           width="350"
+           alt="Developer Card">
 
-</td>
+    </td>
 
-<td width="60%" valign="top">
+    <!-- Right Side (60%) -->
+    <td width="60%" valign="top">
 
-<h2>🚀 Featured Projects</h2>
+      <h2>🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<th>Project</th>
-<th>Tech Stack</th>
-<th>Status</th>
-</tr>
+      <table width="100%">
+        <tr>
+          <th>Project</th>
+          <th>Tech Stack</th>
+          <th>Status</th>
+        </tr>
 
-<tr>
-<td>🎙️ Real-Time Voice to Text Converter</td>
-<td>HTML • CSS • JavaScript • Web Speech API</td>
-<td>✅ Completed</td>
-</tr>
+        <tr>
+          <td>🎙️ Real-Time Voice to Text Converter</td>
+          <td>HTML • CSS • JavaScript • Web Speech API</td>
+          <td>✅ Completed</td>
+        </tr>
 
-<tr>
-<td>🍽️ Restaurant Website</td>
-<td>HTML • CSS • JavaScript • PHP</td>
-<td>✅ Completed</td>
-</tr>
+        <tr>
+          <td>🍽️ Restaurant Website</td>
+          <td>HTML • CSS • JavaScript • PHP</td>
+          <td>✅ Completed</td>
+        </tr>
 
-<tr>
-<td>🌐 Personal Portfolio</td>
-<td>React.js • CSS • Animations • Typescript • Javascript</td>
-<td>✅ Completed</td>
-</tr>
+        <tr>
+          <td>🌐 Personal Portfolio</td>
+          <td>React.js • CSS • Animations • TypeScript • JavaScript</td>
+          <td>✅ Completed</td>
+        </tr>
 
-<tr>
-<td>☕ Coffee Shop</td>
-<td>React.js • CSS</td>
-<td>✅ Completed</td>
-</tr>
+        <tr>
+          <td>☕ Coffee Shop</td>
+          <td>React.js • CSS</td>
+          <td>✅ Completed</td>
+        </tr>
 
-</table>
+      </table>
 
-</td>
+    </td>
 
-</tr>
+  </tr>
 </table>
 
 
