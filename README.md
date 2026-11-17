@@ -8,7 +8,7 @@
 <table width="100%">
 <tr>
 
-<td width="30%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <img src="./assets/developer-card (1).svg" width="500">
 
