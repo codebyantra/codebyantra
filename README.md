@@ -10,7 +10,7 @@
 
 <td width="30%" align="center" valign="top">
 
-<img src="./assets/developer-card (1).svg" width="40%">
+<img src="./assets/developer-card (1).svg" width="500">
 
 </td>
 
